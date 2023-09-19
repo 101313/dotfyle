@@ -50,6 +50,7 @@
 
 - echasnovski/mini.fuzzy
 - Marskey/telescope-sg
+- prochri/telescope-all-recent.nvim
 
 ## File Explorer
 
